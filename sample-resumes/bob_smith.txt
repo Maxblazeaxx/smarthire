@@ -1,0 +1,28 @@
+BOB SMITH
+Data Scientist & ML Engineer
+bob.smith@email.com | github.com/bobsmith
+
+SUMMARY
+Data scientist with 3 years of experience in machine learning, Python, and statistical analysis.
+Skilled at turning data into actionable insights.
+
+SKILLS
+- Languages: Python, R, SQL
+- ML Frameworks: TensorFlow, Scikit-learn, Pandas, NumPy
+- Visualization: Matplotlib, Seaborn, Tableau
+- Big Data: Apache Spark, Hadoop
+- Tools: Git, Jupyter Notebook, Docker
+
+EXPERIENCE
+Data Scientist — DataInsights Co. (2021–Present)
+- Built machine learning models for fraud detection (95% accuracy)
+- Used Pandas and NumPy for large-scale data analysis
+- Deployed ML pipelines with Docker and AWS
+
+Junior Data Analyst — Analytics Corp (2020–2021)
+- SQL queries on PostgreSQL databases
+- Created dashboards with Tableau
+
+EDUCATION
+M.Sc. Data Science — Tech University (2020)
+B.Sc. Statistics — City College (2018)

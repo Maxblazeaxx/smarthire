@@ -1,0 +1,31 @@
+CAROL WHITE
+React Native & Mobile Developer
+carol.white@email.com | github.com/carolwhite
+
+SUMMARY
+Mobile developer specializing in React Native and cross-platform app development.
+4+ years building iOS and Android applications with TypeScript and Redux.
+
+SKILLS
+- Mobile: React Native, Expo, iOS, Android
+- Frontend: React.js, JavaScript, TypeScript
+- State: Redux, MobX, Context API
+- Backend: Firebase, Node.js, REST API
+- Tools: Git, Xcode, Android Studio, CI/CD
+
+EXPERIENCE
+Senior Mobile Developer — AppWorks Ltd (2021–Present)
+- Built React Native apps with 100K+ downloads
+- Integrated Firebase for real-time updates and authentication
+- Used Redux for complex state management
+
+Mobile Developer — MobileFirst (2020–2021)
+- Cross-platform app development with TypeScript
+- Implemented REST API integrations
+
+EDUCATION
+B.Sc. Software Engineering — National University (2020)
+
+PROJECTS
+- ShopEase: E-commerce React Native app (50K+ downloads)
+- FitTrack: Health tracking app using React Native + Firebase

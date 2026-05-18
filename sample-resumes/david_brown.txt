@@ -1,0 +1,34 @@
+DAVID BROWN
+DevOps Engineer & Cloud Architect
+david.brown@email.com | linkedin.com/in/davidbrown
+
+SUMMARY
+DevOps engineer with 5 years of experience in cloud infrastructure, Kubernetes, Docker,
+and CI/CD automation. AWS certified professional.
+
+SKILLS
+- Cloud: AWS (EC2, S3, RDS, Lambda), Azure, GCP
+- Containers: Docker, Kubernetes, Helm
+- CI/CD: Jenkins, GitHub Actions, GitLab CI
+- IaC: Terraform, Ansible, CloudFormation
+- Monitoring: Prometheus, Grafana, ELK Stack
+- Scripting: Bash, Python
+
+EXPERIENCE
+Senior DevOps Engineer — CloudSystems Inc. (2021–Present)
+- Managed Kubernetes clusters serving 10M+ requests/day
+- Automated CI/CD pipelines reducing deploy time by 70%
+- Infrastructure as Code with Terraform and AWS
+
+DevOps Engineer — TechOps (2019–2021)
+- Docker containerization of monolithic applications
+- Jenkins and GitHub Actions pipeline setup
+- AWS infrastructure management
+
+EDUCATION
+B.Sc. Computer Engineering — Engineering Institute (2019)
+
+CERTIFICATIONS
+- AWS Certified Solutions Architect
+- Certified Kubernetes Administrator (CKA)
+- HashiCorp Terraform Associate

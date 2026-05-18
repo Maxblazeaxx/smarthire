@@ -1,0 +1,31 @@
+ALICE JOHNSON
+Full Stack Developer
+alice.johnson@email.com | github.com/alicejohnson | LinkedIn
+
+SUMMARY
+Experienced full stack developer with 4 years of experience building modern web applications.
+Passionate about React.js, Node.js, and building scalable APIs.
+
+SKILLS
+- Frontend: React.js, TypeScript, JavaScript, HTML5, CSS3, Tailwind CSS
+- Backend: Node.js, Express.js, REST API, GraphQL
+- Database: MongoDB, PostgreSQL, Redis
+- Tools: Git, Docker, AWS, CI/CD, Webpack
+- Testing: Jest, React Testing Library
+
+EXPERIENCE
+Senior Frontend Developer — TechCorp Inc. (2022–Present)
+- Built a React.js dashboard used by 50,000+ users
+- Integrated REST APIs and MongoDB for data storage
+- Led CI/CD pipelines with GitHub Actions and Docker
+
+Full Stack Developer — StartupHub (2020–2022)
+- Developed Node.js/Express.js backend services
+- Created GraphQL APIs and MongoDB schemas
+
+EDUCATION
+B.Sc. Computer Science — State University (2020)
+
+CERTIFICATIONS
+- AWS Certified Developer
+- MongoDB Certified Developer
